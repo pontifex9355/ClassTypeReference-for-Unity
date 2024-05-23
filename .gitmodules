@@ -1,0 +1,6 @@
+[submodule "SolidUtilities"]
+	path = SolidUtilities
+	url = https://github.com/pontifex9355/SolidUtilities.git
+[submodule "UnityDropdown"]
+	path = UnityDropdown
+	url = https://github.com/pontifex9355/UnityDropdown.git
